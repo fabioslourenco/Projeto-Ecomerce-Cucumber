@@ -1,0 +1,19 @@
+fluxoExcessaoNomeIncorreto,nome,mensagem1,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",f+abio,firstname is invalid.,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0,10185.0
+"",,firstname is required.,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0,8163.0
+"",f3b1o,firstname is invalid.,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0,8150.0
+fluxoExcessaoSobreNomeIncorreto,sobreNome,mensagem2,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",,lastname is required.,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0,11656.0
+"",l+ourenço,lastname is invalid.,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0,12661.0
+"",lo3urenc4o,lastname is invalid.,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0,10199.0
+fluxoExcessaoEndereçoIncorreto,endereço,mensagem3,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",str@et woodfiel+ dr 523,address1 is invalid.,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0,8808.0
+"",,address1 is required.,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0,7947.0
+fluxoExcessaoCidadeIncorreta,cidade,mensagem4,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",,city is required.,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0,21275.0
+"",a@r=b-n,city is invalid.,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0,9680.0
+fluxoExcessaoZipCodeIncorreto,code,mensagem5.1,mensagem5.2,Duration(ms)
+"",,The Zip/Postal code you,ve entered is invalid. It must follow this format: 00000,7482.0
+"",38414446,The Zip/Postal code you,ve entered is invalid. It must follow this format: 00000,9475.0
+"",384,The Zip/Postal code you,ve entered is invalid. It must follow this format: 00000,9430.0
+"",8 5 8,The Zip/Postal code you,ve entered is invalid. It must follow this format: 00000,7869.0
